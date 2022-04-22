@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/aemelders" mode="merge"/>
+    <filter root="/content/aemelders" mode="merge"/>
+    <filter root="/content/dam/aemelders/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/aemelders" mode="merge"/>
+</workspaceFilter>
